@@ -65,7 +65,7 @@ curl -H "Content-Type:application/json" -X POST -d ''  'localhost:8004/tcc/bug'
 Rollback:
 
 ```java
-curl -H "Content-Type:application/json" -X POST -d ''  'localhost:8104/tcc/bug?throwExp=true'
+curl -H "Content-Type:application/json" -X POST -d ''  'localhost:8004/tcc/bug?throwExp=true'
 
 ```
 
