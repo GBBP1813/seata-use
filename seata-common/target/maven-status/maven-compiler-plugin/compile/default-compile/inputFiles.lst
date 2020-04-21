@@ -1,0 +1,12 @@
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/dto/OrderDTO.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/response/DubboResponse.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/utils/DataSourceMyUtils.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/enums/ResponseCodeEnum.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/dubbo/StorageServiceFacda.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/dubbo/AccountServiceFacda.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/dto/BusinessDTO.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/enums/IError.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/dubbo/OrderServiceFacda.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/dto/AccountDTO.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/dto/CommodityDTO.java
+/Users/guanyangfna/Documents/seata-practice/seata-common/src/main/java/com/example/response/BaseResponse.java
