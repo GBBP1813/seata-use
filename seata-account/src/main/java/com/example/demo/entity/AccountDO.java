@@ -6,6 +6,10 @@ import com.baomidou.mybatisplus.enums.IdType;
 import lombok.Data;
 import lombok.ToString;
 
+/**
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 @Data
 @ToString
 public class AccountDO  {

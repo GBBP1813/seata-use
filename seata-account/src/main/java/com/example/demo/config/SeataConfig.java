@@ -10,6 +10,11 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.datasource.DataSourceUtils;
 
 import javax.sql.DataSource;
+/**
+ * 代理数据数据源配置
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 
 @Configuration
 public class SeataConfig {

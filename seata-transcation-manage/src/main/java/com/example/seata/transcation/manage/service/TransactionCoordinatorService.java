@@ -13,6 +13,10 @@ import io.seata.spring.annotation.GlobalTransactional;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
+/**
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 @Slf4j
 @Service
 public class TransactionCoordinatorService {

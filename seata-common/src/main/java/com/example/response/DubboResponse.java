@@ -6,7 +6,8 @@ import com.sun.org.apache.xpath.internal.operations.Bool;
 import lombok.Data;
 
 /**
- * @author guanyf
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
  */
 @Data
 public class DubboResponse<T> extends BaseResponse {

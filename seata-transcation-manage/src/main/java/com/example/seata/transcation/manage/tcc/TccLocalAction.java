@@ -4,6 +4,10 @@ import io.seata.rm.tcc.api.BusinessActionContext;
 import io.seata.rm.tcc.api.LocalTCC;
 import io.seata.rm.tcc.api.TwoPhaseBusinessAction;
 
+/**
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 @LocalTCC
 public interface TccLocalAction {
 

@@ -9,6 +9,10 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
+/**
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 @Service
 @Slf4j
 public class StorageServiceImpl  implements StorageService{

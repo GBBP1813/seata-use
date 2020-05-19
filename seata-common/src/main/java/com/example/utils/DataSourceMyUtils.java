@@ -3,6 +3,10 @@ package com.example.utils;
 import com.alibaba.druid.pool.DruidDataSource;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;
 
+/**
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 public class DataSourceMyUtils {
     public static DruidDataSource getDatasource(DataSourceProperties dataSourceProperties) {
         DruidDataSource druidDataSource = new DruidDataSource();

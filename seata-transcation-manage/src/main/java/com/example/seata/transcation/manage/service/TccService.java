@@ -12,6 +12,10 @@ import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
 
+/**
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 @Slf4j
 @Service
 public class TccService {

@@ -7,6 +7,10 @@ import io.seata.rm.tcc.api.TwoPhaseBusinessAction;
 
 import java.util.List;
 
+/**
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 @LocalTCC
 public interface TccAcountAction {
 

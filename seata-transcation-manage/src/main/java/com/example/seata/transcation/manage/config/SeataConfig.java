@@ -7,6 +7,11 @@ import org.springframework.context.annotation.Configuration;
 
 import javax.sql.DataSource;
 
+
+/**
+ * @author boomboompow
+ * @date 2020/5/19 2:00 PM
+ */
 @Configuration
 public class SeataConfig {
 
