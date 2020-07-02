@@ -53,7 +53,7 @@
         <dubbo.registry.nacos>0.0.2</dubbo.registry.nacos>
         <spring-context-support.version>1.0.2</spring-context-support.version>
         <testng.version>6.4</testng.version>
-        <mysql-connector.version>8.0.11</mysql-connector.version>
+        <mysql-connector.version>8.0.16</mysql-connector.version>
         <curator.version>4.1.0</curator.version>
     </properties>
 
